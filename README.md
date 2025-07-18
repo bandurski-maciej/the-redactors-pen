@@ -95,8 +95,7 @@ Or manually download the jar from [Maven Central](https://search.maven.org/artif
 You can run the app directly from your IDE (e.g. IntelliJ) or via command line:
 
 ```bash
-javac KindleHighlightsExtractorGUI.java
-java KindleHighlightsExtractorGUI
+java -jar the-redactors-pen-1.0.jar
 ```
 
 ---
